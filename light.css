@@ -1,0 +1,26 @@
+body {
+    padding-top: 120px;
+    text-align: center;
+    background-image: url("bg.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%100%;
+    font-family: "Supermercado One", cursive;
+    text-decoration: yellow;
+  }
+  button {
+    padding-top: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 15px;
+    font-family: "Supermercado One", cursive;
+  }
+  img {
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+    border-radius: 20px;
+  }
+  button:hover {
+    background-color: rgb(247, 211, 9);
+  }
